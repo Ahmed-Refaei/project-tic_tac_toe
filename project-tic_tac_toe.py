@@ -1,7 +1,7 @@
 # tic tac toe
 # version 1
 # Name: ahmed shaaban ahmed
-# ID: 20210022
+
 
 
 # Display board on screen.
